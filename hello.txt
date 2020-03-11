@@ -1,1 +1,6 @@
 write in remote
+
+read me
+write in local
+i well be commit and push
+
