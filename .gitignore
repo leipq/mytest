@@ -1,0 +1,4 @@
+*.cfg
+*.config
+*.properties
+config/
